@@ -20,10 +20,10 @@ DATE DUE: **Jan 21 (R)**
 
 #### DRILLS
 
-1. [Keyboard Input Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-keyboard-input-speedrun.md) [15 minutes]
-2. [Initialization Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-initialization-speedrun.md) [18 minutes]
-3. [Arrays Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-arrays-speedrun.md) [30 minutes]
-4. [Comparable Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-speedrun.md) [x minutes]
+1. [Keyboard Input Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-keyboard-input-speedrun.md) *[15 minutes]*
+2. [Initialization Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-initialization-speedrun.md) *[18 minutes]*
+3. [Arrays Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-arrays-speedrun.md) *[30 minutes]*
+4. [Comparable Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-speedrun.md) *[40 minutes]*
 5. [Sorting with Comparable](#) [x minutes]
 
 

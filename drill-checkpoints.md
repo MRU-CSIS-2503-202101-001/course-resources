@@ -23,6 +23,8 @@ DATE DUE: **Jan 21 (R)**
 1. [Keyboard Input Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-keyboard-input-speedrun.md) [15 minutes]
 2. [Initialization Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-initialization-speedrun.md) [18 minutes]
 3. [Arrays Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-arrays-speedrun.md) [30 minutes]
+4. [Comparable Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-speedrun.md) [x minutes]
+5. [Sorting with Comparable](#) [x minutes]
 
 
 --- 
@@ -31,7 +33,14 @@ DATE DUE: **Jan 21 (R)**
 
 DATE DUE: **Jan 30 (Sa)**
 
+_Comment from JP: Although you can submit these drills on the 30th, they will prove useful on the coding topic test, so you should get them finished before the test!_
+
 #### DRILLS
+
+1. [Comparator Speedrun](#) [x minutes]
+2. [D&D Comparator](#) [x minutes]
+3. [Generic Parameterization Speedrun](#) [x minutes]
+4. [Array-backed Generic List](#) [x minutes]
 
 ---
 

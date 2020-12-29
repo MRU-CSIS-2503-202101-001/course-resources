@@ -39,7 +39,7 @@ _Comment from JP: Because finishing these drills will help you on the coding top
 
 #### DRILLS
 
-1. [Comparator Speedrun](#) [x minutes]
+1. [Comparator Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparator-speedrun.md) *[38 minutes]*
 2. [D&D Comparator](#) [x minutes]
 3. [Generic Parameterization Speedrun](#) [x minutes]
 4. [Array-backed Generic List](#) [x minutes]

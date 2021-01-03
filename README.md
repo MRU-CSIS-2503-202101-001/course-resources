@@ -7,6 +7,37 @@ Department of Mathematics and Computing
 Programming III: Data Structures  
 Winter 2021
 
+# Table of Contents
+
+- [Section Details](#section-details)  
+- [Instructor](#instructor)
+  - [Getting Help](#getting-help)
+- [Dates & Deadlines](#dates)
+  - [Important MRU Ones](#important-mru-dates--deadlines)
+  - [Course Assessment Ones](#course-assessment-dates--deadlines)
+- [Course Description](#course-description)
+- [Assessment](#assessment)
+  - [Drills](#drills)
+  - [Assignments](#assignments)
+  - [Topic Tests](#topic-tests)
+  - [Final Exam](#final-exam)
+- [Learning Outcomes](#learning-outcomes)
+- [Course Policies](#course-policies)
+  - [Attendance](#attendance)
+  - [Late Submissions](#late-submissions)
+- [Course Topics](#course-topics)
+- [Required Text & Readings](#required-texts--readings)
+- [Required Technology](#required-technology)
+  - [Hardware](#hardware)
+  - [Software](#software)
+- [Academic Accommodation](#academic-accommodation-for-students-experiencing-disabilities)
+- [Academic Integrity](#academic-integrity)
+  - [MRU Policy](#mru-policy)
+  - [Course Specific Policy](#comp2503-specific)
+- [FOIP](#freedom-of-information-and-protection-of-privacy-act)
+- [Course Evaluations](#course-evaluations)
+- [Student Resources](#student-resources)
+
 # Section Details
 
 |Type|Section|Day|Time|Location|CRN|
@@ -39,8 +70,9 @@ If you have a question involving your code, we'll use the IA Help System to do s
 
 Other questions not involving code can be tossed my way via email. If emails arrive after office hours, I may or may not respond...depends on how life is going at that moment!
 
+# Dates & Deadline
 
-# Important MRU Dates & Deadlines
+## Important MRU Dates & Deadlines
 
 |What|When|
 |---|---|
@@ -53,7 +85,7 @@ Other questions not involving code can be tossed my way via email. If emails arr
 
 Other important dates can be found [here](https://www.mtroyal.ca/academics/StudentRegistrationRecords/CriticalDates/index.php).
 
-# Course Assessment Dates & Deadlines
+## Course Assessment Dates & Deadlines
 
 For your viewing pleasure, [here are all the dates and deadlines](assessment-dates-deadlines.md) for your tests, assignments, and drills.
 
@@ -201,7 +233,7 @@ Assignment 3 submissions won't be accepted after April 9, 2021.
 
 We'll talk about this.
 
-# Outline of Course Topics
+# Course Topics
 
 The topics covered each week can be found [here](weekly-schedule.md). This schedule will likely change over time, depending on our pace. I'll keep the schedule up-to-date.
 
@@ -256,7 +288,9 @@ More information is available at [Accessibility Services](http://mtroyal.ca/Acad
 
 If you require Academic Accommodations for a reason other than Disability, please make an appointment with Diversity and Human Rights Services at 403-440-5956.
 
-# Academic Integrity (MRU Policy)
+# Academic Integrity
+
+## MRU Policy
 
 Students and faculty at MRU share an important responsibility to maintain the integrity of the teaching and learning relationship.  This relationship is characterized by honesty, fairness and mutual respect for the aim and principles of the pursuit of education.  Academic misconduct impedes the activities of the university community and is punishable by appropriate disciplinary action.  
 
@@ -264,7 +298,7 @@ Students are expected to be familiar with and abide by MRU’s regulations on Ac
 
 Find out more through the resources at [Student Community Standards](https://www.mtroyal.ca/CampusServices/CampusResources/StudentCommunityStandards/).
 
-# Academic Integrity (COMP2503-specific)
+## COMP2503-specific
 
 I really like what Harvard's(!) CS50X course has to say about [academic honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty).
 

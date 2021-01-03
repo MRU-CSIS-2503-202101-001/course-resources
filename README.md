@@ -2,7 +2,8 @@
 Faculty of Science and Technology  
 Department of Mathematics and Computing  
 
-**COMP 2503**  
+### COMP 2503
+ 
 Programming III: Data Structures  
 Winter 2021
 

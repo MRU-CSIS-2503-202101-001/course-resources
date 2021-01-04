@@ -180,7 +180,7 @@ You have to write your coding topic test in **your** tutorial section. (But it's
 
 ### Final Exam
 
-The final exam will be a **3-hour exam** composed of **two** parts: a **written** portion (100 minutes)  and a **coding** portion (80 minutes).
+The final exam will be a **3-hour exam** composed of **two** parts: a **written** portion (100 minutes)  and a **coding** portion (80 minutes). The weightings of each portion will be approximately proportional to the times (100:80).
 
 These portions will be conducted in the same manner as the written and coding portions of topic tests.
 

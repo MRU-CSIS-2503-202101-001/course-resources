@@ -53,7 +53,7 @@ Winter 2021
 **office**: my chilly basement  
 **email**: jpratt@mtroyal.ca  
 **phone**: n/a  
-**office hours**: my calendar
+**office hours**: [my calendar](https://calendar.google.com/calendar/embed?src=jpratt%40mtroyal.ca&mode=week&ctz=America%2FEdmonton)
 
 ### Getting Help
 

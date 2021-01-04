@@ -271,6 +271,8 @@ Although you _can_ write code in a simple text editor, it can be painful. We wil
 
 You will need to add **pmd-eclipse-plugin**, **eclipse-cs**, and **google-java-format** to your Eclipse installation. Having the **CodeTogether** plugin would be useful, too.
 
+> _If you want to use another IDE, you can...but before you do, please understand that **you - not me -** need to deal with the repercussions of that decision._
+
 #### Git Client
 
 You'll be submitting drills, assignments, and topic tests to GitHub, which means you need to be able to run Git commands on your computer. You can follow [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to get your computer Git-ready, if it's not already.

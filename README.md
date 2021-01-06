@@ -42,9 +42,9 @@ Winter 2021
 
 |Type|Section|Day|Time|Location|CRN|
 |---|---|---|---|---|---|
-|LEC|001|WF|10:00 - 11:20|online|10573|
-|TUT|401|R|12:30 - 13:20|online|10574|
-|TUT|402|R|13:30 - 14:20|online|10575|
+|LEC|001|WF|10:00 - 11:20|online @ http://bit.ly/comp2503-w21-lecture|10573|
+|TUT|401|R|12:30 - 13:20|online @ https://discord.gg/TK8QUHf34q|10574|
+|TUT|402|R|13:30 - 14:20|online @ https://discord.gg/TK8QUHf34q|10575|
 
 # Instructor
 

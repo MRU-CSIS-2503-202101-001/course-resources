@@ -61,7 +61,7 @@ If deadlines need to change, you will be clearly informed!**
 - [ ] alogorithmically effective slothing
 ---
 ## WEEK 07 ![progress-07](images/progress-overall-53.png)
-|![week-07](images/week-07.PNG)| Feb 25 (5): drill checkpoint<br>Feb 26 (F): assignment 1 due|
+|![week-07](images/week-07.PNG)| Feb 25 (R): drill checkpoint<br>Feb 26 (F): assignment 1 due|
 |---|:---|
 - Family Day + Reading Week
 
@@ -103,7 +103,7 @@ If deadlines need to change, you will be clearly informed!**
 ---
 
 ## WEEK 13 ![progress-13](images/progress-overall-100.png)
-|![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 9 (F): assignment 3 due|
+|![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 8 (R): Our last tutorial. Need a hug?<br>Apr 9 (F): assignment 3 due<br>Apr 9 (F): Our last lecture.  Weep not!|
 |---|:---|
 - [ ] dealer's choice
 - [ ] review
@@ -111,7 +111,7 @@ If deadlines need to change, you will be clearly informed!**
 ---
 
 ## WEEK 14: The Not-a-Week-for-Us Week
-|![week-14](images/week-14.PNG)| Apr 13 (T): Last day of classes<br>Apr 13 (T): Last day to withdraw|
+|![week-14](images/week-14.PNG)| Apr 13 (T): Last day of classes @ MRU<br>Apr 13 (T): Last day to withdraw|
 |---|:---|
 - [ ] done, done, and **done**!
 

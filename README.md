@@ -2,7 +2,7 @@
 Faculty of Science and Technology  
 Department of Mathematics and Computing  
 
-### COMP 2503
+### COMP 2503 Course Outline (Full)
  
 Programming III: Data Structures  
 Winter 2021
@@ -106,7 +106,8 @@ Here's what the [Academic Calendar](http://catalog.mtroyal.ca/content.php?catoid
 |:---|:---|
 |Drills|20%|
 |Assignments|18% (3 x 6%)|
-|Topic Tests|42% (3 x 14%)|
+|Topic Tests (Written)|30% (3 x 10%)|
+|Topic Tests (Coding)|12% (3 x 4%)|
 |Final Exam|20%|
 
 You can find all the dates and deadlines for these assessments [here](assessment-dates-deadlines.md).
@@ -258,7 +259,7 @@ If the student was closer to a 3.3 - and **how** close depends on the situation,
 
 # Learning Outcomes
 
-Take a look [here](learning-outcomes.md) for the tyical outcomes for this course.
+Take a look [here](learning-outcomes.md) for the typical outcomes for this course.
 
 You might find [this list of concrete](target-skills.md) skills more practical to refer to. This is a living document that will change over the course of the course.
 
@@ -284,7 +285,7 @@ A **student’s** technical difficulties will **not** normally be an acceptable 
 
 #### Drills
 
-Drill submissions won't be accepted for marks after your tutorial on April 1, 2021. Of course, you're free to use the drills as a way of practicing/studying after that date. 
+Drill checkpoint submissions won't be accepted for marks after your tutorial times. Of course, you're free to use the drills as a way of practicing/studying even if you don't submit them on time. 
 
 #### Assignments
 

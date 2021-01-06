@@ -113,7 +113,7 @@ If deadlines need to change, you will be clearly informed!**
 ## WEEK 14: The Not-a-Week-for-Us Week
 |![week-14](images/week-14.PNG)| Apr 13 (T): Last day of classes @ MRU<br>Apr 13 (T): Last day to withdraw|
 |---|:---|
-- [ ] done, done, and **done**!
+- [ ] done, done, and **done**! No...really.
 
 ---
 

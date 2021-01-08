@@ -74,11 +74,11 @@ We want to be able to do two things "easily" (realizing that with Git, this is a
 
 2. [[19:29]](https://youtu.be/fN4RneC4iPs?t=1169) set up your Mac so you can open up folders easily in the Terminal with a right-click
 
-2. [[17:17]](https://youtu.be/lYllJYmue74?t=1037) perform the Holy Trinity to push your changes back up to the GitHub repository
+2. [[20:53]](https://youtu.be/fN4RneC4iPs?t=1253) open up the local repository you cloned with the right-click mentioned previously and perform the Holy Trinity to push your changes back up to the GitHub repository
 
     ```bash
     git add --all
     git commit -m "Some useful message"
     git push
     ```
-3. [[19:48]](https://youtu.be/lYllJYmue74?t=1188) confirm that your changes are now in the GitHub repository     
+3. [[23:40]](https://youtu.be/fN4RneC4iPs?t=1420) confirm that your changes are now in the GitHub repository     

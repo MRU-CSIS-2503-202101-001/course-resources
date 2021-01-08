@@ -44,7 +44,7 @@ It will also be useful if you're **logged into GitHub** and **have Eclipse open,
 2. [[04:02]](https://youtu.be/Yq3WWxqnogs?t=242) drills will have a link that lets you accept the drill, so click on that and follow the on-screen instructions to go through the acceptance procedure.
 
     > _Note_  
-    > _In the video, you don't see the authentication verification that GitHub asks you when you connect to GitHub Classroom for the first time. Just accept it if it does appear. Also, the "...but something went wrong...." message seen when I accept the assignment was there because of a change I had recently done to that drill - you shouldn't see that disturbing message when you do your accepting!_
+    > _In the video, you don't see the authorization step that GitHub asks you when you connect to GitHub Classroom for the first time. Just click the `Authorize GitHub` button if you see it. Also, the "...but something went wrong...." message seen when I accept the assignment was there because of a change I had recently done to that drill - you shouldn't see that disturbing message when you do your accepting!_
     
 3. [[05:45]](https://youtu.be/Yq3WWxqnogs?t=345) after refreshing the page when directed, you can go to the **second link** - the one underneath `Then, access your assignment:` - on the resulting page
 

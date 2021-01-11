@@ -40,11 +40,16 @@ Winter 2021
 
 # Section Details
 
+This course will be delivered synchronously as per this schedule:
+
 |Type|Section|Day|Time|Location|CRN|
 |---|---|---|---|---|---|
 |LEC|001|WF|10:00 - 11:20|online @ http://bit.ly/comp2503-w21-lecture|10573|
 |TUT|401|R|12:30 - 13:20|online @ https://discord.gg/TK8QUHf34q|10574|
 |TUT|402|R|13:30 - 14:20|online @ https://discord.gg/TK8QUHf34q|10575|
+
+All lectures will be held via Google Meet, recorded, and the recordings made available to you.  
+Tutorials will be held via Discord and will **not** be recorded.
 
 # Instructor
 

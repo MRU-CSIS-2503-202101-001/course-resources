@@ -13,9 +13,12 @@ If deadlines need to change, you will be clearly informed!**
 - [ ] tool setup (JDK, Eclipse, plugins, Git)
 - [ ] drill system intro
 - [ ] getting your Java sea-legs back
-- [ ] arrays
-- [ ] generics
+- [ ] arrays [[skills]](target-skills.md#arrays)
 - [ ] interfaces
+- [ ] what is equality?
+- [ ] the Comparable interface
+- [ ] the List interface
+- [ ] sorting via `Collections.sort`
 
 ---
 ## WEEK 02 ![progress-02](images/progress-overall-15.png)

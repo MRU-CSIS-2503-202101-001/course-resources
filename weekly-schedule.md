@@ -14,11 +14,11 @@ If deadlines need to change, you will be clearly informed!**
 - [ ] drill system intro
 - [ ] getting your Java sea-legs back
 - [ ] arrays [[skills]](target-skills.md#arrays)
-- [ ] interfaces
-- [ ] what is equality?
-- [ ] the Comparable interface
-- [ ] the List interface
-- [ ] sorting via `Collections.sort`
+- [ ] interfaces [[skills]](target-skills.md#java-interfaces)
+- [ ] what is equality?  [[skills]](target-skills.md#implementation-of-common-methods)
+- [ ] the Comparable interface [[skills]](target-skills.md#comparable)
+- [ ] the List interface [[skills]](target-skills.md#listt)
+- [ ] sorting via `Collections.sort` [[skills]](target-skills.md#collections-library)
 
 ---
 ## WEEK 02 ![progress-02](images/progress-overall-15.png)

@@ -48,8 +48,9 @@ This course will be delivered synchronously as per this schedule:
 |TUT|401|R|12:30 - 13:20|online @ https://discord.gg/TK8QUHf34q|10574|
 |TUT|402|R|13:30 - 14:20|online @ https://discord.gg/TK8QUHf34q|10575|
 
-All lectures will be held via Google Meet, recorded, and the recordings made available to you.  
-Tutorials will be held via Discord and will **not** be recorded.
+- All lectures will be held via Google Meet, recorded, and the recordings made available to you.
+- You must be logged into your myMRU Gmail account to be allowed access to the Meet.
+- Tutorials will be held via Discord and will **not** be recorded.
 
 # Instructor
 

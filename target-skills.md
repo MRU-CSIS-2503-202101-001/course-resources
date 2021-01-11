@@ -57,7 +57,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] iterate through a List<T>?
 
 #### Java Interfaces
-[s](#collections-library)
+
 - [ ] make a class implement a single Java interface?
 - [ ] make a class implement more than one Java interface?
 

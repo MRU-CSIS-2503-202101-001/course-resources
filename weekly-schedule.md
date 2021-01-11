@@ -17,7 +17,7 @@ If deadlines need to change, you will be clearly informed!**
 - [ ] interfaces [[skills]](target-skills.md#java-interfaces)
 - [ ] what is equality?  [[skills]](target-skills.md#implementation-of-common-methods)
 - [ ] the Comparable interface [[skills]](target-skills.md#comparable)
-- [ ] the List interface [[skills]](target-skills.md#listt)
+- [ ] the List interface [[skills]](target-skills.md#list)
 - [ ] sorting via `Collections.sort` [[skills]](target-skills.md#collections-library)
 
 ---

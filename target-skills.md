@@ -49,7 +49,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] implement `Comparator<T>`?
 - [ ] implement a copy constructor?
 
-#### List<T>
+#### List
 
 - [ ] create an immutable List<T> with `List.of`?
 - [ ] create an empty List<T> with `List.of()` or `Collections.emptyList()`?
@@ -57,7 +57,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] iterate through a List<T>?
 
 #### Java Interfaces
-
+[s](#collections-library)
 - [ ] make a class implement a single Java interface?
 - [ ] make a class implement more than one Java interface?
 

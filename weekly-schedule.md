@@ -4,6 +4,7 @@
 If deadlines need to change, you will be clearly informed!**
 
 ---
+
 ## WEEK 01 ![progress-01](images/progress-overall-7.png)
 
 |![week-01](images/week-01.PNG)| Jan 14 (R): drill checkpoint 0|
@@ -21,52 +22,66 @@ If deadlines need to change, you will be clearly informed!**
 - [ ] sorting via `Collections.sort` [[skills]](target-skills.md#collections-library)
 
 ---
+
 ## WEEK 02 ![progress-02](images/progress-overall-15.png)
 
 |![week-02](images/week-02.PNG)| Jan 18 (M): assignment 1 released<br>Jan 19 (T): add/drop deadline<br>Jan 21 (R): drill checkpoint |
 |---|:---|
 
-- [ ] arrays
+- [ ] generics in kinda depth
+- [ ] the Comparator interface
+- [ ] simple Java lambdas
 - [ ] algorithm analysis
 
-
 ---
+
 ## WEEK 03 ![progress-03](images/progress-overall-23.png)
+
 |![week-03](images/week-03.PNG)| Jan 27 (W): drill checkpoint<br>Jan 28 (R): topic test A (coding)<br>Jan 29 (F): topic test A (writing)|
 |---|:---|
 
-- [ ] stacks & queues - a first try with arrays
-- [ ] we get stuck! (ordering, generics)
-- [ ] interfaces
-- [ ] generics
-- [ ] comparables
-- [ ] comparators
+- [ ] Java Optional
+- [ ] linked structures
 
 ---
+
 ## WEEK 04 ![progress-04](images/progress-overall-30.png)
+
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
-- [ ] linked lists
-- [ ] stacks & queues: using linked lists
+
+- [ ] stacks (array-backed and list-backed)
+- [ ] queues (array-backed and list-backed)
+
 
 ---
+
 ## WEEK 05 ![progress-05](images/progress-overall-38.png)
+
 |![week-05](images/week-05.PNG)| Feb 11 (R): drill checkpoint|
 |---|:---|
 
+- [ ] queues (array-backed and list-backed)
+
 
 ---
+
 ## WEEK 06 ![progress-06](images/progress-overall-46.png)
+
 |![week-06](images/week-06.PNG)| Feb 15 (M): Family Day <br>Feb 16-19: Reading Break|
 |---|:---|
  
 - [ ] advanced couch surfing techniques
 - [ ] alogorithmically effective slothing
+
 ---
+
 ## WEEK 07 ![progress-07](images/progress-overall-53.png)
+
 |![week-07](images/week-07.PNG)| Feb 25 (R): drill checkpoint<br>Feb 26 (F): assignment 1 due|
 |---|:---|
-- Family Day + Reading Week
+
+- [ ] hash tables
 
 ---
 

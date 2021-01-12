@@ -138,7 +138,7 @@ You are encouraged to work on drills by yourelf, but you may work with your clas
 
 > _Be careful when working with others on drills; I've seen too many students deceive themselves into thinking they know the material when in fact they don't. By the time they've realized this, it's far too late to recover...._
 
-#### How marks are calculated
+#### How drill marks are calculated
 
 Each drill will be a **pass/fail** effort: if the submitted code passes its suite of automated tests, then it has passed; otherwise, you will need to address any issues until it **does** pass the tests!
 
@@ -155,7 +155,6 @@ For each checkpoint, you will get:
 > _Drills build skills that are vital for success in the assignments, topic tests...and final exam. Because they are so important, I've put the pressure on you to keep up a certain pace._
 
 
-
 ### Assignments
 
 Assignments are, like drills, coding tasks meant to give you experience putting the topics learned in lecture to practical use. Unlike drills, assignments are longer and more complex. 
@@ -164,7 +163,7 @@ Assignments will be submitted to GitHub using the same process as for drills.
 
 You can work on assignments either **individually or in pairs**. (If you work in pairs, you'll need to submit a brief statement of contribution along with your solution. Details will be provided with the instructions of each assignment.)
 
-#### How marks are calculated
+#### How assignment marks are calculated
 
 Like drills, assignments will have a series of automated tests that your solution must pass to receive full marks. Unlike drills, assignments are not pass/fail efforts and partial marks can be awarded. Another difference from drills is that I will be personally going through your solution to provide additional marks and personalized feedback.
 
@@ -186,7 +185,7 @@ Topic tests **must** be completed **entirely on your own**; no outside assistanc
 
 You have to write your coding topic test in **your** tutorial section. (But it's ok on NON-testing days to sit in on either section...unless one gets so full that I can't effectively answer questions, in which case we'll have to go with our regularly-scheduled tuts.)
 
-#### How marks are calculated
+#### How topic test marks are calculated
 
 Written topic tests will be given a percentage grade, just as you've likely received in countless exams. Each written topic test will be worth **10%** of your final mark.
 
@@ -262,6 +261,14 @@ Here are the calculations for an example student:
 The [Common Grading System]((https://catalog.mtroyal.ca/content.php?catoid=21&navoid=1405&hl=%22Academic+Status%22&returnto=search&print)) puts that just over a B, so I'd _likely_ award a B in this case.
 
 If the student was closer to a 3.3 - and **how** close depends on the situation, so please don't try and pin me down! - they would instead get a B+.
+
+### Perks
+
+There will be the occasional opportunity for you to get a `Perk`. You will be notified when opportunities happen.
+
+You may "spend" Perks: each one you spend lets you submit a single drill after its usual due date and have it count as "on time". This gives you the opportunity to turn a C into an A+ - see the section on [how drills are marked](#how-drill-marks-are-calculated).
+
+At the end of the semester, if you have NO late drills (either because they were handed in on time, or used Perks to make late ones not late), then **every remaining Perk will add 0.5% to your final course grade, up to a maximum of 2%**.
 
 # Learning Outcomes
 

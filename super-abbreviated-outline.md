@@ -76,6 +76,12 @@ Details here: https://github.com/MountRoyalCSIS/IA-info/wiki/Getting-Help
 - Coding done in Eclipse, worth 4%.
 - **Open-book, but must be completed without help from any other human.**
 
+#### Perks
+
+- Chances to gain a Perk will happen throughout the semester.
+- You spend Perks to turn one late drill into not late.
+- Leftover Perks are worth bonus marks to your final grade.
+
 # Course Policies of Particular Interest
 
 #### Lates

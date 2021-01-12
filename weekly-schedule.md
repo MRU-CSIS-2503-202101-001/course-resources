@@ -10,6 +10,13 @@ If deadlines need to change, you will be clearly informed!**
 |![week-01](images/week-01.PNG)| Jan 14 (R): drill checkpoint 0|
 |---|:---|
 
+#### instructor notes
+
+- [lec-01 (W)](lectures/01_2021-01-14(W).md)
+- [lec-02 (F)](#)
+
+#### topics
+
 - [ ] what's this course all about?
 - [ ] tool setup (JDK, Eclipse, plugins, Git)
 - [ ] drill system intro

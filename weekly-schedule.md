@@ -50,9 +50,8 @@ If deadlines need to change, you will be clearly informed!**
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
 
+- [ ] linked lists
 - [ ] stacks (array-backed and list-backed)
-- [ ] queues (array-backed and list-backed)
-
 
 ---
 

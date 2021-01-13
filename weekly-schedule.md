@@ -15,6 +15,10 @@ If deadlines need to change, you will be clearly informed!**
 - [lec-01 (W)](lectures/01_2021-01-13(W).md)
 - [lec-02 (F)](#)
 
+#### code playground
+
+[GitHub repo](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
+
 #### topics
 
 - [ ] what's this course all about?

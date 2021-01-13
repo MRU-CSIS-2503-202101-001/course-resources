@@ -33,14 +33,17 @@ By the end of the course, you're expected to have these practical, measurable sk
 #### arrays
 
 - [ ] create an array that holds a primitive or a reference type?
+- [ ] place something in an array at a given index?
+- [ ] initialize an array manually?
 - [ ] initialize an array with shorthand/shortcut syntax?
 - [ ] get something out of an array at a given index?
 - [ ] place something in an array at a given index?
 - [ ] find the length of an array?
 - [ ] tell the difference between an array's fill level and capacity?
+- [ ] iterate through an array using for/for-each?
 - [ ] print out array contents nicely with `Arrays.toString`?
 - [ ] copy an array using `Arrays.copyOf`?
-- [ ] iterate through an array using for/for-each?
+
 
 #### implementation of common methods
 

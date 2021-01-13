@@ -7,6 +7,7 @@ I have a tendency to spit out a lot of how-to docs & screencasts. Here's a list 
 ### GitHub
 
 - [Creating a GitHub Account & Making a Private Repo](how-tos/github-account.md)
+- [Submitting Issues on GitHub](how-tos/submitting-issues-on-github.md)
 
 ### Git
 

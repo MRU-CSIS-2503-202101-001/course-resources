@@ -17,8 +17,8 @@ If deadlines need to change, you will be clearly informed!**
 
 #### lecture recordings
 
-- [lec-01 (W)](https://youtu.be/FqWj70ag5ws)
-- [array noodling](https://youtu.be/TC8Pl0ZheGI)
+- [lec-01 (W)](https://youtu.be/FqWj70ag5ws)  [57:13]
+- [array noodling](https://youtu.be/TC8Pl0ZheGI)  [1:32:25]
 
 #### code playground
 

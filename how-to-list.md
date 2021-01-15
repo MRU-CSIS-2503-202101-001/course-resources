@@ -24,3 +24,7 @@ I have a tendency to spit out a lot of how-to docs & screencasts. Here's a list 
 
 - [The Process: Windows](how-tos/the-process-windows.md)
 - [The Process: Mac](how-tos/the-process-mac.md)
+
+### Programming Related
+
+- [Reading Numbers from Console](how-tos/reading-nums-from-console.md)

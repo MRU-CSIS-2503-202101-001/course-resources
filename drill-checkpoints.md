@@ -23,7 +23,7 @@ DATE DUE: **Jan 21 (R)**
 1. [Keyboard Input Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-keyboard-input-speedrun.md) *[21 minutes]*
 2. [Initialization Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-initialization-speedrun.md) *[24 minutes]*
 3. [Arrays Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-arrays-speedrun.md) *[42 minutes]*
-4. [Equality Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-speedrun.md) *[15 minutes]*
+4. [Equality Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-equals-speedrun.md) *[15 minutes]*
 5. [Comparable Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-speedrun.md) *[42 minutes]*
 6. [Comparable Sorting](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparable-sorting.md) *[50 minutes]*
 

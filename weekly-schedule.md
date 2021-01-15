@@ -19,6 +19,7 @@ If deadlines need to change, you will be clearly informed!**
 
 - [lec-01 (W)](https://youtu.be/FqWj70ag5ws)  [57:13]
 - [array noodling](https://youtu.be/TC8Pl0ZheGI)  [1:32:25]
+- [lec-02 (F)](https://youtu.be/bDW2B8NCkhY)  [1:20:49]
 
 #### code playground
 

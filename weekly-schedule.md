@@ -13,7 +13,7 @@ If deadlines need to change, you will be clearly informed!**
 #### instructor notes
 
 - [lec-01 (W)](lectures/01_2021-01-13(W).md)
-- [lec-02 (F)](#)
+- [lec-02 (F)](lectures/01_2021-01-15(F).md)
 
 #### lecture recordings
 

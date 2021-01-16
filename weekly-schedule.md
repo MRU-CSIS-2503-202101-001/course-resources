@@ -20,6 +20,10 @@ If deadlines need to change, you will be clearly informed!**
 - [lec-01 (W)](https://youtu.be/FqWj70ag5ws)  [57:13]
 - [array noodling](https://youtu.be/TC8Pl0ZheGI)  [1:32:25]
 - [lec-02 (F)](https://youtu.be/bDW2B8NCkhY)  [1:20:49]
+- [Implementing Comparable](https://youtu.be/G-oGf16e0Ko) [46:45]
+- [Sorting with Collections.sort and Arrays.sort](https://youtu.be/rgt0Fsm202U) [16:26]
+- [Implementing equals](https://youtu.be/cF0dqilGjTc) [24:50]
+- [Pre-built compareTo and multi-field compareTo](https://youtu.be/WZFOt-2jO0Q) [26:54]
 
 #### code playground
 

@@ -45,6 +45,7 @@ If deadlines need to change, you will be clearly informed!**
 ---
 
 ## WEEK 02 ![progress-02](images/progress-overall-15.png)
+### -->current week
 
 |![week-02](images/week-02.PNG)| Jan 18 (M): assignment 1 released<br>Jan 19 (T): add/drop deadline<br>Jan 21 (R): drill checkpoint |
 |---|:---|

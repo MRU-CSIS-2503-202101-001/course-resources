@@ -74,6 +74,17 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] make a class implement `Comparable<T>`?
 - [ ] use `compareTo` in a conditional?
 
+#### Stacks
+
+- [ ] make an array-backed Stack implementation?
+- [ ] make a linked-list-backed Stack implementation?
+
+#### Queues
+
+- [ ] make an array-backed Queue implementation?
+- [ ] make a linked-list-backed Queue implementation?
+
+
 #### Comparator
 
 - [ ] implement a Comparator in its own class?
@@ -89,3 +100,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 - [ ] convert a class that doesn't use generics into one that does?
 - [ ] create objects from classes that use generics?
+
+#### new Java things
+
+- [ ] use the basic features of `Optional`, let `get`, `of`, and `empty`? 

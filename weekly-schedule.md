@@ -13,7 +13,7 @@ If deadlines need to change, you will be clearly informed!**
 #### instructor notes
 
 - [lec-01 (W)](lectures/01_2021-01-13(W).md)
-- [lec-02 (F)](lectures/01_2021-01-15(F).md)
+- [lec-02 (F)](lectures/02_2021-01-15(F).md)
 
 #### lecture recordings
 
@@ -49,6 +49,12 @@ If deadlines need to change, you will be clearly informed!**
 
 |![week-02](images/week-02.PNG)| Jan 18 (M): assignment 1 released<br>Jan 19 (T): add/drop deadline<br>Jan 21 (R): drill checkpoint |
 |---|:---|
+
+#### instructor notes
+
+- [lec-03 (W)](lectures/03_2021-01-20(W).md)
+
+#### topics
 
 - [ ] generics in kinda depth
 - [ ] the Comparator interface

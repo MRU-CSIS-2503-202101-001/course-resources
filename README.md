@@ -76,6 +76,8 @@ If you have a question involving your code, we'll use the IA Help System to do s
 
 Other questions not involving code can be tossed my way via email. If emails arrive after office hours, I may or may not respond...depends on how life is going at that moment!
 
+> **_Please don't DM me on Discord outside of tutorial hours - the Help System is meant to be a fair way for all students from different courses to ask questions. If one set of students gets to use Discord, it gives them a way to "jump the queue"...and that's not fair. Also I use Discord for personal reasons (I do have a life! kinda...) and when I'm using Discord after-hours, it's disruptive to have questions come in._**
+
 # Dates & Deadline
 
 ## Important MRU Dates & Deadlines

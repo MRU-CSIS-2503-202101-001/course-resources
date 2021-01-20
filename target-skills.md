@@ -100,7 +100,9 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 - [ ] convert a class that doesn't use generics into one that does?
 - [ ] create objects from classes that use generics?
+- [ ] create a class from scratch that uses generics?
 
 #### new Java things
 
-- [ ] use the basic features of `Optional`, let `get`, `of`, and `empty`? 
+- [ ] use the basic features of `Optional`, like `get`, `of`, and `empty`? 
+- [ ] create defensive copies of parameters and instance variables?

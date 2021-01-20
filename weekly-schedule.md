@@ -54,6 +54,10 @@ If deadlines need to change, you will be clearly informed!**
 
 - [lec-03 (W)](lectures/03_2021-01-20(W).md)
 
+#### lecture recordings
+
+- [lec-03 (W)](https://youtu.be/oE6JEcwS-pQ)  [1:20:24]
+
 #### code playgrounds
 
 - [lec-03](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)

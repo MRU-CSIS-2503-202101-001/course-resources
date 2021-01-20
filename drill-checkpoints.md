@@ -55,6 +55,10 @@ DATE DUE: **Feb 04 (R)**
 
 #### DRILLS
 
+1. [Always Sorted List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-always-sorted-list.md) *[80 minutes]*
+
+Estimated time to complete all drills in checkpoint: **xhxm**
+
 ---
 
 ## Checkpoint 4

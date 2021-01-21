@@ -76,8 +76,8 @@ If deadlines need to change, you will be clearly informed!**
 |![week-03](images/week-03.PNG)| Jan 27 (W): drill checkpoint<br>Jan 28 (R): topic test A (coding)<br>Jan 29 (F): topic test A (writing)|
 |---|:---|
 
-- [ ] Java Optional
-- [ ] linked structures
+- [ ] review (on Wednesday, to help with tests on R/F)
+
 
 ---
 

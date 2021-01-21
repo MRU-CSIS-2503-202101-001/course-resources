@@ -29,6 +29,11 @@ DATE DUE: **Jan 21 (R)**
 
 Estimated time to complete all drills in checkpoint: **3h14m**
 
+Screencasts of solutions (just for this checkpoint, not all of them.)
+
+- part 1, where I cover the first 4 drills: https://youtu.be/76M3ggTD_go [1:26:57]
+- part 2, where I cover the last 2 drills: https://youtu.be/XA8TuYZyqfQ [1:05:20] 
+
 --- 
 
 ## Checkpoint 2

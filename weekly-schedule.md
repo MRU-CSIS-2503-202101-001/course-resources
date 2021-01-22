@@ -53,6 +53,7 @@ If deadlines need to change, you will be clearly informed!**
 #### instructor notes
 
 - [lec-03 (W)](lectures/03_2021-01-20(W).md)
+- [lec-04 (F)](lectures/04_2021-01-22(F).md)
 
 #### lecture recordings
 

@@ -58,6 +58,13 @@ If deadlines need to change, you will be clearly informed!**
 
 - [lec-03 (W)](https://youtu.be/oE6JEcwS-pQ)  [1:20:24]
 
+#### tutorial recordings
+
+The contents are pretty much the same; just choose one to watch.
+
+- [tut-02 (401)](https://youtu.be/poHFlwTdJ5A) [28:08]
+- [tut-02 (402)](https://youtu.be/yyzVnHGpYBU) [30:16]
+
 #### code playgrounds
 
 - [lec-03](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)

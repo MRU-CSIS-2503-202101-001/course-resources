@@ -57,6 +57,8 @@ If deadlines need to change, you will be clearly informed!**
 #### lecture recordings
 
 - [lec-03 (W)](https://youtu.be/oE6JEcwS-pQ)  [1:20:24]
+- [generics mini](https://youtu.be/FLVZzE-Rhn4) [33:54]
+- [alternative compare & compareTo](https://youtu.be/i-DKYptQo5g) [32:52]
 
 #### tutorial recordings
 

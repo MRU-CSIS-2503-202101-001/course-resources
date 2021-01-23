@@ -272,6 +272,16 @@ You may "spend" Perks: each one you spend lets you submit a single drill after i
 
 At the end of the semester, if you have NO late drills (either because they were handed in on time, or used Perks to make late ones not late), then **every remaining Perk will add 0.5% to your final course grade, up to a maximum of 2%**.
 
+**The deadline for using Perks to "un-late" drills will be by the end of day on April 9 (F) - the day of our last lecture.**
+
+#### how to use a Perk
+
+If you wish to have one of your late drill submissions recognized as being **not** late, email me (that way we have an email trail) and let me know 2 things:
+
+1. that you wish to use a Perk, and
+2. which late drill you want to "un-late"
+
+
 # Learning Outcomes
 
 Take a look [here](learning-outcomes.md) for the typical outcomes for this course.
@@ -319,15 +329,18 @@ Assignment 3 submissions won't be accepted after April 9, 2021.
 
 ### Karma
 
-You might notice a Karma column in your grades on our Blackboard site. So what's **that** all about?!?
+> _Note from JP:_  
+> _I've decided to drop the karma idea for this semester - not because I think it's a bad idea, but because it needs to be tracked and I don't feel I will have the time to do it properly._
 
-Well, long story short, I wanted a way of tracking the things students do that have repercussions, both for good or ill. Things like attending lectures and tutorials, keeping up with drill checkpoints, coming to ask for help, and doing practice exams will all take you in a positive direction. Naturally, doing the converse will take you in the other direction.
+~~You might notice a Karma column in your grades on our Blackboard site. So what's **that** all about?!?~~
 
-Over the course of the semester, I'll update your karma as I notice certain behaviours...it'll either be **Neutral**, **Positive**, or **Negative**.
+~~Well, long story short, I wanted a way of tracking the things students do that have repercussions, both for good or ill. Things like attending lectures and tutorials, keeping up with drill checkpoints, coming to ask for help, and doing practice exams will all take you in a positive direction. Naturally, doing the converse will take you in the other direction.~~
 
-**_Karma has no direct impact on your final mark_** - it is perfectly conceivable that a person could have negative karma and still ace the course. **_It is also not a judgement about you as a person_** - it's just a way of noting my observations of the **actions you take**.
+~~Over the course of the semester, I'll update your karma as I notice certain behaviours...it'll either be **Neutral**, **Positive**, or **Negative**.~~
 
-From a practical standpoint, the one thing karma will indicate is my willingness to be lenient near the end of the semester - it's pretty difficult to help someone who's on the cusp of a fail get over the line when you can see clearly they've made a series of choices that have led to that moment.
+~~**_Karma has no direct impact on your final mark_** - it is perfectly conceivable that a person could have negative karma and still ace the course. **_It is also not a judgement about you as a person_** - it's just a way of noting my observations of the **actions you take**.~~
+
+~~From a practical standpoint, the one thing karma will indicate is my willingness to be lenient near the end of the semester - it's pretty difficult to help someone who's on the cusp of a fail get over the line when you can see clearly they've made a series of choices that have led to that moment.~~
 
 # Course Topics
 

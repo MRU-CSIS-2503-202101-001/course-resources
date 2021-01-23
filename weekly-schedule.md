@@ -18,8 +18,11 @@ If deadlines need to change, you will be clearly informed!**
 #### lecture recordings
 
 - [lec-01 (W)](https://youtu.be/FqWj70ag5ws)  [57:13]
-- [array noodling](https://youtu.be/TC8Pl0ZheGI)  [1:32:25]
 - [lec-02 (F)](https://youtu.be/bDW2B8NCkhY)  [1:20:49]
+
+#### additional recordings [3:27:20]
+
+- [array noodling](https://youtu.be/TC8Pl0ZheGI)  [1:32:25]
 - [Implementing Comparable](https://youtu.be/G-oGf16e0Ko) [46:45]
 - [Sorting with Collections.sort and Arrays.sort](https://youtu.be/rgt0Fsm202U) [16:26]
 - [Implementing equals](https://youtu.be/cF0dqilGjTc) [24:50]
@@ -27,7 +30,8 @@ If deadlines need to change, you will be clearly informed!**
 
 #### code playground
 
-[GitHub repo](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
+- [GitHub repo](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
+
 
 #### topics
 
@@ -45,7 +49,7 @@ If deadlines need to change, you will be clearly informed!**
 ---
 
 ## WEEK 02 ![progress-02](images/progress-overall-15.png)
-### -->current week
+
 
 |![week-02](images/week-02.PNG)| Jan 18 (M): assignment 1 released<br>Jan 19 (T): add/drop deadline<br>Jan 21 (R): drill checkpoint |
 |---|:---|
@@ -58,8 +62,6 @@ If deadlines need to change, you will be clearly informed!**
 #### lecture recordings
 
 - [lec-03 (W)](https://youtu.be/oE6JEcwS-pQ)  [1:20:24]
-- [generics mini](https://youtu.be/FLVZzE-Rhn4) [33:54]
-- [alternative compare & compareTo](https://youtu.be/i-DKYptQo5g) [32:52]
 - [lec-04 (F)](https://youtu.be/0cgaQd9tuFE) [1:21:55]
 
 #### tutorial recordings
@@ -69,9 +71,20 @@ The contents are pretty much the same; just choose one to watch.
 - [tut-02 (401)](https://youtu.be/poHFlwTdJ5A) [28:08]
 - [tut-02 (402)](https://youtu.be/yyzVnHGpYBU) [30:16]
 
+#### additional recordings [1:34:19]
+
+- [generics mini](https://youtu.be/FLVZzE-Rhn4) [33:54]
+- [alternative compare & compareTo](https://youtu.be/i-DKYptQo5g) [32:52]
+- [completing the remaining T(n) to O(n) questions](https://youtu.be/TsBr3MnhBuU) [27:33]
+
+
 #### code playgrounds
 
 - [lec-03](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
+
+#### growth function / Big O practice
+
+- [A Bunch of Examples](https://drive.google.com/file/d/1xNfM9G9_eWE8-RNfoMGZbaxntgg_yESb/view?usp=sharing)
 
 #### topics
 
@@ -83,6 +96,8 @@ The contents are pretty much the same; just choose one to watch.
 ---
 
 ## WEEK 03 ![progress-03](images/progress-overall-23.png)
+
+### -->current week
 
 |![week-03](images/week-03.PNG)| Jan 27 (W): drill checkpoint<br>Jan 28 (R): topic test A (coding)<br>Jan 29 (F): topic test A (writing)|
 |---|:---|
@@ -97,8 +112,12 @@ The contents are pretty much the same; just choose one to watch.
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
 
-- [ ] linked lists
-- [ ] stacks (array-backed and list-backed)
+- [ ] what are "data structures"?
+- [ ] Stacks - the concept
+- [ ] Queues - the concept
+- [ ] implementing an array-backed Stack
+- [ ] implementing an array-back Queue
+- [ ] Nodes (leading to linked structures)
 
 ---
 
@@ -107,8 +126,8 @@ The contents are pretty much the same; just choose one to watch.
 |![week-05](images/week-05.PNG)| Feb 11 (R): drill checkpoint|
 |---|:---|
 
-- [ ] queues (array-backed and list-backed)
-
+- [ ] linked lists
+- [ ] implementing a list-backed Stack
 
 ---
 
@@ -128,6 +147,7 @@ The contents are pretty much the same; just choose one to watch.
 |---|:---|
 
 - [ ] hash tables
+- [ ] using the Java library data structures
 
 ---
 
@@ -135,6 +155,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-08](images/week-08.PNG)| Mar 3 (W): drill checkpoint<br>Mar 4 (R): topic test B (coding)<br>Mar 5 (F): topic test B (written)|
 |---|:---|
 
+- [ ] review (on Wednesday, to help with tests on R/F)
 
 ---
 

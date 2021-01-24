@@ -86,7 +86,7 @@ DATE DUE: **Feb 25 (R)**
 
 ## Checkpoint 6
 
-DATE DUE: **Mar 06 (Sa)**
+DATE DUE: **Mar 03 (W)**
 
 #### DRILLS
 
@@ -110,7 +110,7 @@ DATE DUE: **Mar 18 (R)**
 
 ## Checkpoint 9
 
-DATE DUE: **Mar 27 (Sa)**
+DATE DUE: **Mar 24 (W)**
 
 #### DRILLS
 

@@ -104,5 +104,9 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 #### new Java things
 
-- [ ] use the basic features of `Optional`, like `get`, `of`, and `empty`? 
+- [ ] use the basic features of `Optional`, like `get`, `of`, `isPresent`, `isEmpty`, and `empty`? 
 - [ ] create defensive copies of parameters and instance variables?
+
+#### algorithm analysis
+
+- [ ] find the growth function and Big O for a given fragment of code?  

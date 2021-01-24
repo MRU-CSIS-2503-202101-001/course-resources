@@ -46,8 +46,8 @@ Because finishing these drills will help you on the coding topic test, you are b
 #### DRILLS
 
 1. [Comparator Speedrun](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparator-speedrun.md) *[38 minutes]*
-2. [Comparator Sorting](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparator-sorting.md) [50 minutes]
-3. [Generics Grab Bag](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-generics-grab-bag.md) [33 minutes]
+2. [Comparator Sorting](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-comparator-sorting.md) _[50 minutes]_
+3. [Generics Grab Bag](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-generics-grab-bag.md) _[33 minutes]_
 
 
 Estimated time to complete all drills in checkpoint: **2h01m**
@@ -61,8 +61,10 @@ DATE DUE: **Feb 04 (R)**
 #### DRILLS
 
 1. [Always Sorted List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-always-sorted-list.md) *[80 minutes]*
+2. [Oscillating Resizable Array](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-oscillating-resizable-array.md) _[80 minutes]_
+3. [Optional But Not Optional](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-optional-but-not-optional.md) _[40 minutes]_
 
-Estimated time to complete all drills in checkpoint: **xhxm**
+Estimated time to complete all drills in checkpoint: **3h20m**
 
 ---
 

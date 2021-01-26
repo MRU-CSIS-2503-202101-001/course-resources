@@ -187,6 +187,10 @@ Topic tests **must** be completed **entirely on your own**; no outside assistanc
 
 You have to write your coding topic test in **your** tutorial section. (But it's ok on NON-testing days to sit in on either section...unless one gets so full that I can't effectively answer questions, in which case we'll have to go with our regularly-scheduled tuts.)
 
+#### The procedure for topic tests
+
+There's a more detailed explanation [of coding tests here](otherdocs/online-coding-tests-explanation%20copy.md) and [written tests here](otherdocs/online-written-tests-explanation.md).
+
 #### How topic test marks are calculated
 
 Written topic tests will be given a percentage grade, just as you've likely received in countless exams. Each written topic test will be worth **10%** of your final mark.

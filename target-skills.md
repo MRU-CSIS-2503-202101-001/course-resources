@@ -109,4 +109,5 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 #### algorithm analysis
 
-- [ ] find the growth function and Big O for a given fragment of code?  
+- [ ] find the growth function and Big O for a given fragment of code?
+- [ ] predict changes in execution time for a fragment of code, given the Big O for that fragment and the change in n?  

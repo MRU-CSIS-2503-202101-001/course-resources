@@ -109,7 +109,7 @@ The contents are pretty much the same; just choose one to watch.
 
 #### lecture recordings
 
-- [lec-05 (W)](#)  [xx]
+- [lec-05 (W)](https://youtu.be/ianJ2TUIh_I)  [1:18:14]
 
 #### additional recordings [35:59]
 

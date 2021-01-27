@@ -111,3 +111,8 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 - [ ] find the growth function and Big O for a given fragment of code?
 - [ ] predict changes in execution time for a fragment of code, given the Big O for that fragment and the change in n?  
+
+#### linked structures
+
+- [ ] create a singly-linked generic list from scratch?
+- [ ] create a doubly-linked generic list from scratch?

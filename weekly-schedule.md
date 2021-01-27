@@ -102,6 +102,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-03](images/week-03.PNG)| Jan 27 (W): drill checkpoint<br>Jan 28 (R): topic test A (coding)<br>Jan 29 (F): topic test A (writing)|
 |---|:---|
 
+
 #### instructor notes
 
 - [lec-05 (W)](lectures/05_2021-01-27(W).md)
@@ -113,6 +114,10 @@ The contents are pretty much the same; just choose one to watch.
 #### additional recordings [35:59]
 
 - [Optional\<T>](https://youtu.be/mrcdif-txak) [35:59]
+
+#### code playgrounds
+
+- [lec-05](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
 
 #### topics
 

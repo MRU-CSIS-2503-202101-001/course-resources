@@ -16,6 +16,12 @@ It's best to imagine that the coding tests are pretty much the same as drills. H
 
 That's about it.
 
+## What can I do to prepare for the coding tests?
+
+- [ ] the most important thing? Do the drills in the checkpoints leading up from the last coding test. They will do much to solidify the skills you need for the tests.
+- [ ] definitely do the practice test that will be given to you. Do the test on your own _before_ looking at the screencast. And time yourself - you want to apply some pressure to simulate what the real experience will be like. 
+- [ ] read the instructions for the test! JP has decided to release these ahead of time. (Likely around the same time the practice test is released.)
+
 
 ## What do I do on the day of the test?
 

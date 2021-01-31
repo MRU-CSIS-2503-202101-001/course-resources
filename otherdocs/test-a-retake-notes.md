@@ -2,7 +2,15 @@
 
 ## The Why
 
-The marks were low. Like...really low. MRU policy doesn't allow me to re-weight stuff in the course outline, so I can't just say "we'll move x weight from this exam to the next". I also am not gonna curve this, because I honestly feel it was a fair test. So that leaves me with either letting people swing, which seems devastating and cruel, or giving folks another chance. So here we are.
+The marks were low. Like...really low. 
+
+Unfortunately, MRU policy doesn't allow me to re-weight stuff in the course outline, so I can't just say "we'll move x weight from this exam to the next". 
+
+I also am not gonna curve this, because I honestly feel it was a fair test. 
+
+So that leaves me with either letting people swing, which seems devastating and cruel, or giving folks another chance. 
+
+So here we are.
 
 ## The How
 

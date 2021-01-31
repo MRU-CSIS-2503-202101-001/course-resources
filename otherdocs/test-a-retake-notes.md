@@ -19,13 +19,17 @@ I've chosen 8 of the questions that seemed to give people the most trouble. You'
 You'll have 50 minutes to write this new test. 
 > _How did I get that number? The questions you're writing make up 60% of the original test's total marks, so I reckoned I'd give you about 60% of the original test's time as well._
 
-I'll mark this new test, bring in your marks from the other 5 questions on the original exam, and combine them to get a new score. You'll get 80% of your improvement (rounded up) added to your old score. That's probably confusing, so here's an example:
+I'll mark this new test, bring in your marks from the other 5 questions on the original exam, and combine them to get a new score. You'll get 80% of your improvement (rounded up) added to your old score. 
+
+That's probably confusing, so here's an example:
 
 > Let's say you got a 40% on the original exam. You rewrite the exam and when your new answers are scored, the result of your combined test is now a 75%. 
 > 
 > In this case, you've improved your score by 35% (75% - 40%). So you'll get 80% of that improvement added to your original score. 80% of 35% is **28%**.
 > 
 > So your final score for Topic Test A would be 40% (your original score) + 28% (80% of your improvement) = **68%**. 
+>  
+> If you're a big-picture sort of person, note that since this Topic Test is worth 10% of your final grade in the course, in the above example you've just improved your grade by 2.8% (10% of 28%). That's about one shift on the letter grade scale. Not too shabby.
 
 ## The Questions Being Revisited
 
@@ -68,6 +72,8 @@ If asked to explain code in English, it doesn't mean "repeat the code in English
 ### Question 9 (implement comesBefore / comesAfter)
 
 If you implement Comparable, you must have a compareTo. The compareTo method returns an int. When that int is negative, what does that **mean**? When that int is positive, what does that **mean**?
+
+And look at the return type of comesBefore/comesAfter. Please.
 
 ### Question 11 (array initialization, Wat?)
 

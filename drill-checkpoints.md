@@ -74,6 +74,14 @@ DATE DUE: **Feb 11 (R)**
 
 #### DRILLS
 
+1. [Two-Ended List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-two-ended-list.md)  **<--YOU MUST DO THIS FIRST**
+2. [Chibi Linked Stack]() 
+3. [Simple Linked Queue]()
+
+_After getting the Two-Ended List drill done, you can do the other two drills in any order...I'd say they're both about the same level of difficulty. And that level is **easy**._
+
+Estimated time to complete all drills in checkpoint: I'm going to move away from these time estimates...it's just too variable!
+
 ---
 
 ## Checkpoint 5

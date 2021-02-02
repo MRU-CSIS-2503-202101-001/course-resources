@@ -123,9 +123,6 @@ The contents are pretty much the same; just choose one to watch.
 
 - [ ] review (on Wednesday, to help with tests on R/F)
 
-
-
-
 ---
 
 ## WEEK 04 ![progress-04](images/progress-overall-30.png)
@@ -133,12 +130,25 @@ The contents are pretty much the same; just choose one to watch.
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
 
+#### instructor notes
+
+- [lec-07 (W)](lectures/07_2021-02-03(W).md)
+
+#### lecture recordings
+
+- [Intro](https://youtu.be/wNDNes5W4Zo)[28.32]
+- [List ADT](https://youtu.be/NgWzJ_w2-5w)[12:45]
+- [Stacks](https://youtu.be/wvzO_UIzGp4)[24:13]
+- [Queues](https://youtu.be/93eceP8urf4)[18:50]
+
+#### topics
+
+- [ ] what are ADTs?
 - [ ] what are "data structures"?
 - [ ] Stacks - the concept
 - [ ] Queues - the concept
 - [ ] implementing an array-backed Stack
 - [ ] implementing an array-back Queue
-- [ ] Nodes (leading to linked structures)
 
 ---
 
@@ -147,6 +157,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-05](images/week-05.PNG)| Feb 11 (R): drill checkpoint|
 |---|:---|
 
+- [ ] Nodes (leading to linked structures)
 - [ ] linked lists
 - [ ] implementing a list-backed Stack
 

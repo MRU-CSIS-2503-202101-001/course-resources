@@ -14,7 +14,7 @@ So here we are.
 
 ## The How
 
-I've chosen 8 of the questions that seemed to give people the most trouble. You'll get a new test on Wednesday that consists of those 8 questions: I'm literally making a copy of **your** test that just has those 8 questions on it - so your marks for those questions will be there, along with your answers from last Friday.
+I've chosen 8 of the questions that seemed to give people the most trouble. I'm literally making a copy of **your** test - so your marks for your questions will be there, along with your answers from last Friday.
 
 You'll have 50 minutes to write this new test. 
 > _How did I get that number? The questions you're writing make up 60% of the original test's total marks, so I reckoned I'd give you about 60% of the original test's time as well._

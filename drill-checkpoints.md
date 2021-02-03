@@ -68,7 +68,7 @@ Estimated time to complete all drills in checkpoint: **3h20m**
 
 ---
 
-## Checkpoint 4
+## Checkpoint 4 (aka The Breather)
 
 DATE DUE: **Feb 11 (R)**
 

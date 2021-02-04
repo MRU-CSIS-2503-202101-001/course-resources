@@ -1,6 +1,8 @@
 # Drill Checkpoints
 
-_**Most drills in a checkpoint are due by the end of *your* tutorial section time on the specified dates; however, on the 3 weeks you have a coding topic test, drills will be due by 23:59 on the Wednesday immediately prior the test. I will aim to make the time to complete all the drills shorter on those weeks.**_
+_Most drills in a checkpoint are due by the end of *your* tutorial section time on the specified dates; however, on the 3 weeks you have a coding topic test, drills will be due by 23:59 on the Wednesday immediately prior the test. I will aim to make the time to complete all the drills shorter on those weeks._
+
+**UPDATE (Feb 04): All drills in checkpoints are now due at 23:59. The days will remain the same - Thursday in most cases, with the occasional Wednesday as noted above.**
   
 _Times shown in brackets are rough estimates (4x as long it takes me to complete them) on how long the drill should take you if you have been engaged in lectures and have done some review on your own._
 

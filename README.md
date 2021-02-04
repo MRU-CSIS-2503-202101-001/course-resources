@@ -50,7 +50,7 @@ This course will be delivered synchronously as per this schedule:
 
 - All lectures will be held via Google Meet, recorded, and the recordings made available to you.
 - You must be logged into your myMRU Gmail account to be allowed access to the Meet.
-- Tutorials will be held via Discord and will **not** be recorded.
+- ~~Tutorials will be held via Discord and will **not** be recorded.~~ Updated Feb 04: I will now make recordings of one of the tutorial sessions and make it available.
 
 # Instructor
 
@@ -132,7 +132,7 @@ Drills are **short - typically 15 minutes to 60 minutes - coding tasks** designe
 
 > _Over the course of the semester, I will be taking samples of submitted drill code that illustrates some useful point and going over this code with the class. (Any aspects of the code that could be linked back to a given student will be removed.)_
 
-I expect folks to complete a number of drills - typically about 3 hours worth - each week. The drills assigned will usually be due by the end of **your** tutorial section; on weeks where a coding topic test is due, this deadline will be moved to 23:59 on the Wednesday **immediately prior** the test. 
+I expect folks to complete a number of drills - typically about 3 hours worth - each week. ~~The drills assigned will usually be due by the end of **your** tutorial section; on weeks where a coding topic test is due, this deadline will be moved to 23:59 on the Wednesday **immediately prior** the test.~~ UPDATED Feb 04: From this day onward, drills will be due at 23:59 for all checkpoints; as before, the standard due day will be your tutorial days (Thursday) except for the weeks of the Coding Topic Tests; those week's checkpoints will still be handed in on Wednesday. 
 
 Drills will be **submitted to GitHub**. You may resubmit solutions as many times as you wish, up to the checkpoint deadline. Details on the submission process will be provided - and practiced - in the early days of the course.
 

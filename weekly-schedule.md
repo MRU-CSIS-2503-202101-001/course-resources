@@ -133,6 +133,7 @@ The contents are pretty much the same; just choose one to watch.
 #### instructor notes
 
 - [lec-07 (W)](lectures/07_2021-02-03(W).md)
+- [lec-08 (F)](lectures/08_2021-02-05(F).md)
 
 #### lecture recordings
 

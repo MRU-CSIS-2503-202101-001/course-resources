@@ -135,14 +135,15 @@ The contents are pretty much the same; just choose one to watch.
 #### instructor notes
 
 - [lec-07 (W)](lectures/07_2021-02-03(W).md)
+- [tut-04 (R)](tuts/2021-02-04.md)
 - [lec-08 (F)](lectures/08_2021-02-05(F).md)
 
 #### lecture recordings
 
-- [lec-07: Intro](https://youtu.be/wNDNes5W4Zo)[28.32]
-- [lec-07: List ADT](https://youtu.be/NgWzJ_w2-5w)[12:45]
-- [lec-07: Stacks](https://youtu.be/wvzO_UIzGp4)[24:13]
-- [lec-07: Queues](https://youtu.be/93eceP8urf4)[18:50]
+- [lec-07: Intro](https://youtu.be/wNDNes5W4Zo) [28.32]
+- [lec-07: List ADT](https://youtu.be/NgWzJ_w2-5w) [12:45]
+- [lec-07: Stacks](https://youtu.be/wvzO_UIzGp4) [24:13]
+- [lec-07: Queues](https://youtu.be/93eceP8urf4) [18:50]
 
 #### tutorial recordings
 

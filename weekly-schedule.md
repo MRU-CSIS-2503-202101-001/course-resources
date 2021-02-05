@@ -97,7 +97,6 @@ The contents are pretty much the same; just choose one to watch.
 
 ## WEEK 03 ![progress-03](images/progress-overall-23.png)
 
-### -->current week
 
 |![week-03](images/week-03.PNG)| Jan 27 (W): drill checkpoint<br>Jan 28 (R): topic test A (coding)<br>Jan 29 (F): topic test A (writing)|
 |---|:---|
@@ -126,9 +125,12 @@ The contents are pretty much the same; just choose one to watch.
 ---
 
 ## WEEK 04 ![progress-04](images/progress-overall-30.png)
+### -->current week
 
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
+
+
 
 #### instructor notes
 

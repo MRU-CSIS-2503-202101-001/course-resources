@@ -144,6 +144,7 @@ The contents are pretty much the same; just choose one to watch.
 - [lec-07: List ADT](https://youtu.be/NgWzJ_w2-5w) [12:45]
 - [lec-07: Stacks](https://youtu.be/wvzO_UIzGp4) [24:13]
 - [lec-07: Queues](https://youtu.be/93eceP8urf4) [18:50]
+- [lec-08: Stack implementation](https://youtu.be/0cgaQd9tuFE) [1:21:55]
 
 #### tutorial recordings
 

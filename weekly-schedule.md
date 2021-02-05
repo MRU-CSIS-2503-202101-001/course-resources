@@ -141,6 +141,10 @@ The contents are pretty much the same; just choose one to watch.
 - [Stacks](https://youtu.be/wvzO_UIzGp4)[24:13]
 - [Queues](https://youtu.be/93eceP8urf4)[18:50]
 
+#### tutorial recordings
+
+- [tut-04 (401)](https://youtu.be/_4gBui1w_tI) [12:55]
+
 #### topics
 
 - [ ] what are ADTs?

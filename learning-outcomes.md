@@ -11,7 +11,7 @@ At the end of the course the student will be able to:
       1. lists
       2. stacks
       3. queues
-      4. tress
+      4. trees
       5. hash tables
    2. Design and implement applications using the data structures above.
    3. Understand various ways that data structures can be implemented.

@@ -166,10 +166,9 @@ The contents are pretty much the same; just choose one to watch.
 
 ## WEEK 05 ![progress-05](images/progress-overall-38.png)
 
-|![week-05](images/week-05.PNG)| Feb 11 (R): drill checkpoint|
+|![week-05](images/week-05.PNG)| |
 |---|:---|
 
-- [ ] Nodes (leading to linked structures)
 - [ ] linked lists
 - [ ] implementing a list-backed Stack
 
@@ -181,7 +180,7 @@ The contents are pretty much the same; just choose one to watch.
 |---|:---|
  
 - [ ] advanced couch surfing techniques
-- [ ] alogorithmically effective slothing
+- [ ] destressing, not distressing
 
 ---
 
@@ -232,7 +231,7 @@ The contents are pretty much the same; just choose one to watch.
 ---
 
 ## WEEK 13 ![progress-13](images/progress-overall-100.png)
-|![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 8 (R): Our last tutorial. Need a hug?<br>Apr 9 (F): assignment 3 due<br>Apr 9 (F): Our last lecture.  Weep not!|
+|![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 8 (R): Our last tutorial. Sad now.<br>Apr 9 (F): assignment 3 due<br>Apr 9 (F): Our last lecture.  Weep not!|
 |---|:---|
 - [ ] dealer's choice
 - [ ] review
@@ -243,7 +242,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-14](images/week-14.PNG)| Apr 13 (T): Last day of classes @ MRU<br>Apr 13 (T): Last day to withdraw|
 |---|:---|
 - [ ] done, done, and **done**! No...really.
-
+- [ ] I'm serious - no class for us this week!
 ---
 
 [1] progress bar images from http://scripts.cac.psu.edu/staff/l/n/lnm105/progressbar.html

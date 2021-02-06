@@ -138,13 +138,16 @@ The contents are pretty much the same; just choose one to watch.
 - [tut-04 (R)](tuts/2021-02-04.md)
 - [lec-08 (F)](lectures/08_2021-02-05(F).md)
 
-#### lecture recordings
+#### lecture recordings [3:50:31]
 
-- [lec-07: Intro](https://youtu.be/wNDNes5W4Zo) [28.32]
-- [lec-07: List ADT](https://youtu.be/NgWzJ_w2-5w) [12:45]
-- [lec-07: Stacks](https://youtu.be/wvzO_UIzGp4) [24:13]
-- [lec-07: Queues](https://youtu.be/93eceP8urf4) [18:50]
-- [lec-08: Stack implementation](https://youtu.be/o6nULgHGOvs) [1:20:47]
+- [lec-07 (W): Intro](https://youtu.be/wNDNes5W4Zo) [28:32]
+- [lec-07 (W): List ADT](https://youtu.be/NgWzJ_w2-5w) [12:45]
+- [lec-07 (W): Stacks](https://youtu.be/wvzO_UIzGp4) [24:13]
+- [lec-07 (W): Queues](https://youtu.be/93eceP8urf4) [18:50]
+- [lec-08 (F): Stack implementation](https://youtu.be/o6nULgHGOvs) [1:20:47]
+- [lec-08 (F): last bit of Stack discussion](https://youtu.be/GvHDm6rI2BQ) [13:46]
+- [lec-08 (F): Queue implementation](https://youtu.be/JT4glEtdrlU) [51:38]
+
 
 #### tutorial recordings
 

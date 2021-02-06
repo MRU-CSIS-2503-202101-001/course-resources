@@ -68,6 +68,10 @@ DATE DUE: **Feb 04 (R)**
 
 Estimated time to complete all drills in checkpoint: **3h20m**
 
+#### Code Comments from JP
+
+[Here are some snippets](code_review_samples/2021-02-06.md) I found during a random digging-through of some of your code. I comment on things, if you'd care to listen. Who knows - maybe **your** code is in here? In any case, come on in and maybe learn a thing or two!
+
 ---
 
 ## Checkpoint 4 (aka The Breather)

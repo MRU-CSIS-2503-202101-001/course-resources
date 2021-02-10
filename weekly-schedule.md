@@ -125,7 +125,6 @@ The contents are pretty much the same; just choose one to watch.
 ---
 
 ## WEEK 04 ![progress-04](images/progress-overall-30.png)
-### -->current week
 
 |![week-04](images/week-04.PNG)|Feb 4 (R): drill checkpoint|
 |---|:---|
@@ -166,8 +165,18 @@ The contents are pretty much the same; just choose one to watch.
 
 ## WEEK 05 ![progress-05](images/progress-overall-38.png)
 
+### -->current week
+
 |![week-05](images/week-05.PNG)| |
 |---|:---|
+
+#### instructor notes
+
+- [lec-09 (W)](lectures/09_2021-02-10(W).md)
+- [tut-05 (R)]()
+- [lec-10 (F)](lectures/10_2021-02-12(F).md)
+
+#### topics
 
 - [ ] linked lists
 - [ ] implementing a list-backed Stack

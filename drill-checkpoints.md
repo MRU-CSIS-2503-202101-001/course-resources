@@ -109,9 +109,23 @@ Estimated time to complete all drills in checkpoint: I'm going to move away from
 
 ---
 
-## Checkpoint 6
+## Checkpoint 6 [aka Choose Your Own Hashventure]
 
 DATE DUE: **Mar 03 (W)**
+
+> _Since you have a test coming up and because the drills in this checkpoint are a bit large-ish, you only have to do ONE of the following two drills. I'd say they're about the same level of difficulty._
+>  
+> _If you decide that coding is just SO MUCH FUN (it is) that you want to do both, I won't stop you. I'm not going to give out bonus marks for completing both, but if you **did** complete both, it would probably influence any decisions I made at the end of the year if your were on the border for a higher mark._
+>
+> _**Finally, keep in mind that even though you only need to code up one of these kinds of hash tables, you still need to know how the other kind works!**_
+
+
+1. [Probealicious Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-probealicious-hash-table.md)  
+
+**OR**
+
+1. [Just Bucket Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-just-bucket-hash-table.md) 
+
 
 #### DRILLS
 

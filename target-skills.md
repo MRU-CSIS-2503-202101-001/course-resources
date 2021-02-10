@@ -116,3 +116,10 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 - [ ] create a singly-linked generic list from scratch?
 - [ ] create a doubly-linked generic list from scratch?
+
+#### hash tables
+
+- [ ] make a hash table that uses open addressing to handle collisions?
+- [ ] implement lazy deletion in an open-addressed hash table?
+- [ ] describe how different probe sequences (linear, quadratic, double hashing) are used to find empty slots or target keys?
+- [ ] make a hash table that uses chaining with linked lists to handle collisions?

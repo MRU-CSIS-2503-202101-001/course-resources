@@ -181,6 +181,9 @@ The contents are pretty much the same; just choose one to watch.
 - [lec-09 (W): Linked List Time](https://youtu.be/dQ5fiI19woA) [1:20:06]
 - [lec-09A: Linked List, con't](https://youtu.be/6ba5ROtYuLM) [59:40]
 
+#### completed code
+
+- [GitHub repo](https://github.com/MRU-CSIS-2503-202101-001/lecture-playground.git)
 
 #### topics
 

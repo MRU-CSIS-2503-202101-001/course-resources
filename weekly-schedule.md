@@ -176,10 +176,11 @@ The contents are pretty much the same; just choose one to watch.
 - [tut-05 (R)]()
 - [lec-10 (F)](lectures/10_2021-02-12(F).md)
 
-#### lecture recordings [2:19:46]
+#### lecture recordings [3:33:58]
 
 - [lec-09 (W): Linked List Time](https://youtu.be/dQ5fiI19woA) [1:20:06]
 - [lec-09A: Linked List, con't](https://youtu.be/6ba5ROtYuLM) [59:40]
+- [lec-10: List-Backed Stack](https://youtu.be/6CoYMlAmHzg) [1:14:12]
 
 #### tutorial recordings
 

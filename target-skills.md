@@ -47,7 +47,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 #### implementation of common methods
 
-- [ ] implement `equals` and `hashChode`?
+- [ ] implement `equals` and `hashCode`?
 - [ ] implement `Comparable<T>`?
 - [ ] implement `Comparator<T>`?
 - [ ] implement a copy constructor?
@@ -78,11 +78,13 @@ By the end of the course, you're expected to have these practical, measurable sk
 
 - [ ] make an array-backed Stack implementation?
 - [ ] make a linked-list-backed Stack implementation?
+- [ ] solve a problem using a Stack?
 
 #### Queues
 
 - [ ] make an array-backed Queue implementation?
 - [ ] make a linked-list-backed Queue implementation?
+- [ ] solve a problem using a Queue?
 
 
 #### Comparator
@@ -90,6 +92,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] implement a Comparator in its own class?
 - [ ] implement a Comparator inline via an anonymous class?
 - [ ] implement a Comparator inline via a simple lambda?
+- [ ] use a Comparator to solve a problem?
 
 #### general 
 
@@ -123,3 +126,4 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] implement lazy deletion in an open-addressed hash table?
 - [ ] describe how different probe sequences (linear, quadratic, double hashing) are used to find empty slots or target keys?
 - [ ] make a hash table that uses chaining with linked lists to handle collisions?
+

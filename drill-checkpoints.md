@@ -117,12 +117,12 @@ DATE DUE: **Any Day Before Apr 09**
 >  
 > _If you decide that coding is just SO MUCH FUN (it is) that you want to do both, I won't stop you. I'm not going to give out bonus marks for completing both, but if you **did** complete both, it would probably influence any decisions I made at the end of the year if your were on the border for a higher mark._
 >
-> _**Finally, keep in mind that even though you only need to code up one of these kinds of hash tables, and the due date is flexible, you still must understand how insertions and collision handling work in each kind, because that'll be on Topic Test B.**_
+> _**Finally, keep in mind that even though you only need to code up one of these kinds of hash tables, and the due date is flexible, you still must understand how insertions and collision handling work in each kind, because that'll be on the written Topic Test B.**_
 
 
 1. [Probealicious Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-probealicious-hash-table.md)  
 
-**OR**
+    **OR**
 
 1. [Just Bucket Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-just-bucket-hash-table.md) 
 

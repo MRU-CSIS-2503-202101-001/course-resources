@@ -328,7 +328,7 @@ Assignment 3 submissions won't be accepted after April 9, 2021.
 
 This is all a bit confusing when letter grades are involved, so here's a handy table:
 
-![late-effects](images/assignment-late-effect.png)
+![late-effects](images/assignment-late-effect-v01.png)
 
 #### Topic Tests
 

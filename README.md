@@ -326,6 +326,10 @@ The first two assignments will be accepted late. For each day or parital day lat
 
 Assignment 3 submissions won't be accepted after April 9, 2021.
 
+This is all a bit confusing when letter grades are involved, so here's a handy table:
+
+![late-effects](images/assignment-late-effect.png)
+
 #### Topic Tests
 
 **Topic tests will NOT be accepted late without appropriate and serious reason (like illness or family emergency).** If a problem arises during a live assessment, or you know you cannot write at its scheduled time, contact your instructor as soon as possible (in advance would be helpful) such that alternative arrangements can be explored. Arrangements could include, but are not limited to, allowing for the test to be taken at an alternative time or rolling the weighting of an assessment into later assessments. These accommodations will only be enacted as circumstances allow and at the discretion of the instructor.

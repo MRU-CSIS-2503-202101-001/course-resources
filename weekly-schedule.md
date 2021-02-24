@@ -213,7 +213,8 @@ The contents are pretty much the same; just choose one to watch.
 |---|:---|
 
 - [ ] hash tables
-- [ ] using the Java library data structures
+- [ ] references review (if time)
+- [ ] copy constructor review (if time)
 
 ---
 
@@ -229,6 +230,8 @@ The contents are pretty much the same; just choose one to watch.
 |![week-09](images/week-09.PNG)| Mar 11 (R): drill checkpoint|
 |---|:---|
 
+- [ ] maps
+- [ ] binary search trees
 
 ---
 
@@ -236,6 +239,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-10](images/week-10.PNG)| Mar 18 (R): drill checkpoint|
 |---|:---|
 
+- [ ] recursion
 
 ---
 
@@ -243,19 +247,23 @@ The contents are pretty much the same; just choose one to watch.
 |![week-11](images/week-11.PNG)| Mar 24 (W): drill checkpoint<br>Mar 25 (R): topic test C (coding)<br>Mar 26 (F): topic test C (written)|
 |---|:---|
 
+- [ ] review (on Wednesday, to help with tests on R/F)
 
 ---
 
 ## WEEK 12 ![progress-12](images/progress-overall-92.png)
 |![week-12](images/week-12.PNG)| Mar 29 (M): assignment 2 due<br>Apr 01 (R): drill checkpoint (last one!!!)<br>Apr 2 (F): Good Friday (NO LEC)|
 |---|:---|
+
 - [ ] almost there, folks...がんばれ!!!
+- [ ] sorting
 
 ---
 
 ## WEEK 13 ![progress-13](images/progress-overall-100.png)
 |![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 8 (R): Our last tutorial. Sad now.<br>Apr 9 (F): assignment 3 due<br>Apr 9 (F): Our last lecture.  Weep not!|
 |---|:---|
+
 - [ ] dealer's choice
 - [ ] review
 

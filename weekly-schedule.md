@@ -212,6 +212,18 @@ The contents are pretty much the same; just choose one to watch.
 |![week-07](images/week-07.PNG)| Feb 25 (R): drill checkpoint<br>Feb 26 (F): assignment 1 due|
 |---|:---|
 
+#### instructor notes
+
+- [lec-11 (W)](lectures/11_2021-02-24(W)%20.md)
+- [tut-06 (R)]()
+- [lec-12 (F)]()
+
+#### lecture recordings [3:33:58]
+
+- [lec-11 (W): Maps](https://youtu.be/08LheCBiE3I) [1:20:36]
+
+#### topics
+
 - [ ] hash tables
 - [ ] references review (if time)
 - [ ] copy constructor review (if time)

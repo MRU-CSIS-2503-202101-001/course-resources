@@ -51,6 +51,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] implement `Comparable<T>`?
 - [ ] implement `Comparator<T>`?
 - [ ] implement a copy constructor?
+- [ ] implement an `Iterator<E>`?
 
 #### List
 

@@ -139,6 +139,8 @@ DATE DUE: **Mar 11 (R)**
 
 > _Yup. Just one.   
 > It'll be easier to complete if you've got a working linked list class available, either from a drill or from assignment one._
+> 
+> _**Oh - and this is the last linked-list drill.**_
 
 1. [Always Sorted Linked List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-always-sorted-linked-list.md) 
 

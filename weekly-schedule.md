@@ -215,18 +215,20 @@ The contents are pretty much the same; just choose one to watch.
 #### instructor notes
 
 - [lec-11 (W)](lectures/11_2021-02-24(W)%20.md)
-- [tut-06 (R)]()
+- [tut-06 (R)](tuts/2021-02-25.md)
 - [lec-12 (F)]()
 
 #### lecture recordings [3:33:58]
 
 - [lec-11 (W): Maps](https://youtu.be/08LheCBiE3I) [1:20:36]
 
+#### tutorial recordings
+
+- [tut-06 (401)](https://youtu.be/DSLNcQ6f0vE) [15:33]
+
 #### topics
 
 - [ ] hash tables
-- [ ] references review (if time)
-- [ ] copy constructor review (if time)
 
 ---
 

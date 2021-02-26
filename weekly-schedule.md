@@ -216,11 +216,12 @@ The contents are pretty much the same; just choose one to watch.
 
 - [lec-11 (W)](lectures/11_2021-02-24(W)%20.md)
 - [tut-06 (R)](tuts/2021-02-25.md)
-- [lec-12 (F)]()
+- [lec-12 (F)](lectures/12_2021-02-26(F)%20.md)
 
-#### lecture recordings [3:33:58]
+#### lecture recordings [2:43:01]
 
 - [lec-11 (W): Maps](https://youtu.be/08LheCBiE3I) [1:20:36]
+- [lec-12 (F): Hash Tables](https://youtu.be/3DkgteW-Vyk) [1:22:25]
 
 #### tutorial recordings
 
@@ -228,6 +229,7 @@ The contents are pretty much the same; just choose one to watch.
 
 #### topics
 
+- [ ] maps
 - [ ] hash tables
 
 ---

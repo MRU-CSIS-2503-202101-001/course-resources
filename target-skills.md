@@ -81,7 +81,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] make a linked-list-backed Stack implementation?
 - [ ] solve a problem using a Stack?
 - [ ] describe the standard operations and standard qualities of a Stack?
-- [ ] provide the time complexity of the methods in different Stack impelementations?
+- [ ] provide the time complexity of the methods in different Stack implementations?
 
 #### Queues
 
@@ -89,7 +89,7 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] make a linked-list-backed Queue implementation?
 - [ ] solve a problem using a Queue?
 - [ ] describe the standard operations and standard qualities of a Queue?
-- [ ] provide the time complexity of the methods in different Queue impelementations?
+- [ ] provide the time complexity of the methods in different Queue implementations?
 
 #### Maps
 

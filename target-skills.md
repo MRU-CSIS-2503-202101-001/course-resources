@@ -80,13 +80,20 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] make an array-backed Stack implementation?
 - [ ] make a linked-list-backed Stack implementation?
 - [ ] solve a problem using a Stack?
+- [ ] describe the standard operations and standard qualities of a Stack?
+- [ ] provide the time complexity of the methods in different Stack impelementations?
 
 #### Queues
 
 - [ ] make an array-backed Queue implementation?
 - [ ] make a linked-list-backed Queue implementation?
 - [ ] solve a problem using a Queue?
+- [ ] describe the standard operations and standard qualities of a Queue?
+- [ ] provide the time complexity of the methods in different Queue impelementations?
 
+#### Maps
+
+- [ ] describe the standard operations and standard qualities of a Map?
 
 #### Comparator
 
@@ -127,4 +134,6 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] implement lazy deletion in an open-addressed hash table?
 - [ ] describe how different probe sequences (linear, quadratic, double hashing) are used to find empty slots or target keys?
 - [ ] make a hash table that uses chaining with linked lists to handle collisions?
+- [ ] describe what a hash code and hash function are and how they are related?
+- [ ] explain what load factor is, how it is interpreted differently in the context of open-addressed vs. separate-chained hash tables, and how it relates to resizing a hash table?
 

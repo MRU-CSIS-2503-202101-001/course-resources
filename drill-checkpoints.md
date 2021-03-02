@@ -109,7 +109,7 @@ Estimated time to complete all drills in checkpoint: I'm going to move away from
 
 #### Code Comments from JP
 
-I nosed around in yer codez! [See what I found!](code_review_samples/2021-2021-03-01.md)
+I nosed around in yer codez! [See what I found!](code_review_samples/2021-03-01.md)
 
 ---
 

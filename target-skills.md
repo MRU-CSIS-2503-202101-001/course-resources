@@ -137,3 +137,8 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] describe what a hash code and hash function are and how they are related?
 - [ ] explain what load factor is, how it is interpreted differently in the context of open-addressed vs. separate-chained hash tables, and how it relates to resizing a hash table?
 
+#### trees
+
+- [ ] make a binary search tree?
+- [ ] make a Map using a binary search tree?
+- [ ] traverse a BST in a variety of ways?

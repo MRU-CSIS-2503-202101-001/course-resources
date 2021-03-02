@@ -238,6 +238,12 @@ The contents are pretty much the same; just choose one to watch.
 |![week-08](images/week-08.PNG)| Mar 3 (W): drill checkpoint<br>Mar 4 (R): topic test B (coding)<br>Mar 5 (F): topic test B (written)|
 |---|:---|
 
+#### additional recordings [15:39]
+
+- [Lazy Deletion](https://youtu.be/MlNgYaSsUyM) [15:39]
+
+#### topics
+
 - [ ] review (on Wednesday, to help with tests on R/F)
 
 ---

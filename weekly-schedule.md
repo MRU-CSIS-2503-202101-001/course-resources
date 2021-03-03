@@ -242,6 +242,10 @@ The contents are pretty much the same; just choose one to watch.
 
 - [lec-13 (W)](lectures/13_2021-03-03(W)%20.md)
 
+#### lecture recordings [1:21:44]
+
+- [lec-13 (W): Review ](https://youtu.be/muGA4RKwVeU) [1:21:44]
+
 #### additional recordings [15:39]
 
 - [Lazy Deletion](https://youtu.be/MlNgYaSsUyM) [15:39]

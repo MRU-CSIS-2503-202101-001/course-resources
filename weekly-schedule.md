@@ -252,8 +252,8 @@ The contents are pretty much the same; just choose one to watch.
 |![week-09](images/week-09.PNG)| Mar 11 (R): drill checkpoint|
 |---|:---|
 
-- [ ] maps
-- [ ] binary search trees
+- [ ] recursion
+- [ ] maaaybe start with trees?
 
 ---
 
@@ -261,7 +261,7 @@ The contents are pretty much the same; just choose one to watch.
 |![week-10](images/week-10.PNG)| Mar 18 (R): drill checkpoint|
 |---|:---|
 
-- [ ] recursion
+- [ ] trees
 
 ---
 

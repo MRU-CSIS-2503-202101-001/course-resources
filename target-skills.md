@@ -142,3 +142,9 @@ By the end of the course, you're expected to have these practical, measurable sk
 - [ ] make a binary search tree?
 - [ ] make a Map using a binary search tree?
 - [ ] traverse a BST in a variety of ways?
+
+#### recursion
+
+- [ ] implement recursive methods?
+- [ ] design and code recursive algorithms over lists?
+- [ ] design and code recursive algorithms over trees?

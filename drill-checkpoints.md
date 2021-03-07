@@ -125,10 +125,12 @@ DATE DUE: **Any Day Before Apr 09**
 
 
 1. [Probealicious Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-probealicious-hash-table.md)  
+   
+   > _If you do this one, you'll need to watch the [lazy deletion screencast](https://youtu.be/MlNgYaSsUyM) first._
 
     **OR**
 
-1. [Just Bucket Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-just-bucket-hash-table.md) 
+2. [Just Bucket Hash Table](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-just-bucket-hash-table.md) 
 
 
 #### DRILLS
@@ -144,7 +146,7 @@ DATE DUE: **Mar 11 (R)**
 > _Yup. Just one.   
 > It'll be easier to complete if you've got a working linked list class available, either from a drill or from assignment one._
 > 
-> _**Oh - and this is the last linked-list drill.**_
+> _**Oh - and this is the last linked-list drill. Kinda...you'll be using them in some of the recursion drills, but you don't have to build them!**_
 
 1. [Always Sorted Linked List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-always-sorted-linked-list.md) 
 
@@ -155,6 +157,10 @@ DATE DUE: **Mar 11 (R)**
 DATE DUE: **Mar 18 (R)**
 
 #### DRILLS
+
+1. [Mandelbrot](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-mandelbrot.md)
+2. [Some Recursive Drill 2](#) 
+3. [Some Recursive Drill 3](#) 
 
 ---
 

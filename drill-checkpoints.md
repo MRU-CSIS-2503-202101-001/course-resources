@@ -170,7 +170,7 @@ DATE DUE: **Mar 24 (W)**
 
 Guess what? No drills this checkpoint. I reckon you've got your hands full.  
 
-However, since I want to make sure you're on pace for your assignment, you will need to submit (or have already submitted) a working C- level solution to the assignment by this checkpoint's deadline in order to get this checkpoint's 2%.
+However, since I want to make sure you're on pace for your assignment, you will need to submit (or have already submitted) a working C- level solution to the assignment by this checkpoint's deadline in order to get this checkpoint's 2%. If you have a D+ level solution working, you'll get 1%.
 
 ---
 

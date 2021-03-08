@@ -178,7 +178,9 @@ However, since I want to make sure you're on pace for your assignment, you will 
 
 DATE DUE: **Mar 31 (W)**
 
+Last one, folks! Gonna feel good, eh?
+
 #### DRILLS
 
-1. [BST Removals](#) 
+1. [BST Removals](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-bst-removals.md) 
 2. [Level Order Traversal](#) 

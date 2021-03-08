@@ -183,4 +183,4 @@ Last one, folks! Gonna feel good, eh?
 #### DRILLS
 
 1. [BST Removals](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-bst-removals.md) 
-2. [Level Order Traversal](#) 
+2. [Level Order Traversal](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-bst-level-order-traversal.md) 

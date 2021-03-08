@@ -159,8 +159,8 @@ DATE DUE: **Mar 18 (R)**
 #### DRILLS
 
 1. [Mandelbrot](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-mandelbrot.md)
-2. [Some Recursive Drill 2](#) 
-3. [Some Recursive Drill 3](#) 
+2. [Recursive hasAny](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-recursive-hasAny.md) 
+3. [Recursive List List](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-recursive-list-list.md) 
 
 ---
 
@@ -168,12 +168,17 @@ DATE DUE: **Mar 18 (R)**
 
 DATE DUE: **Mar 24 (W)**
 
-#### DRILLS
+Guess what? No drills this checkpoint. I reckon you've got your hands full.  
+
+However, since I want to make sure you're on pace for you assignment, you will need to submit (or have already submitted) a working C- level solution to the assignment by this checkpoint's deadline in order to get this checkpoint's 2%.
 
 ---
 
 ## Checkpoint 10 (LAST ONE)
 
-DATE DUE: **Apr 01 (R)**
+DATE DUE: **Mar 31 (W)**
 
 #### DRILLS
+
+1. [BST Removals](#) 
+2. [Level Order Traversal](#) 

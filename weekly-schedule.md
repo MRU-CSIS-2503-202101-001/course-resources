@@ -270,6 +270,8 @@ The contents are pretty much the same; just choose one to watch.
 |---|:---|
 
 - [ ] trees
+- [ ] tree traversals
+- [ ] iterators
 
 ---
 
@@ -282,7 +284,7 @@ The contents are pretty much the same; just choose one to watch.
 ---
 
 ## WEEK 12 ![progress-12](images/progress-overall-92.png)
-|![week-12](images/week-12.PNG)| Mar 29 (M): assignment 2 due<br>Apr 01 (R): drill checkpoint (last one!!!)<br>Apr 2 (F): Good Friday (NO LEC)|
+|![week-12](images/week-12.PNG)| Mar 31 (W): drill checkpoint (last one!!!)<br>Apr 01 (R): assignment 2 due<br>Apr 2 (F): Good Friday (NO LEC)|
 |---|:---|
 
 - [ ] almost there, folks...がんばれ!!!

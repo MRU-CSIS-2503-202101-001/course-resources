@@ -260,6 +260,16 @@ The contents are pretty much the same; just choose one to watch.
 |![week-09](images/week-09.PNG)| Mar 11 (R): drill checkpoint|
 |---|:---|
 
+#### instructor notes
+
+- [lec-15 (W)](lectures/15_2021-03-10(W)%20.md)
+
+#### lecture recordings []
+
+- [lec-15 (W): Recursion](#) []
+
+#### topics
+
 - [ ] recursion
 - [ ] maaaybe start with trees?
 
@@ -268,6 +278,8 @@ The contents are pretty much the same; just choose one to watch.
 ## WEEK 10 ![progress-10](images/progress-overall-76.png)
 |![week-10](images/week-10.PNG)| Mar 18 (R): drill checkpoint|
 |---|:---|
+
+#### topics
 
 - [ ] trees
 - [ ] tree traversals
@@ -279,6 +291,8 @@ The contents are pretty much the same; just choose one to watch.
 |![week-11](images/week-11.PNG)| Mar 24 (W): drill checkpoint<br>Mar 25 (R): topic test C (coding)<br>Mar 26 (F): topic test C (written)|
 |---|:---|
 
+#### topics
+
 - [ ] review (on Wednesday, to help with tests on R/F)
 
 ---
@@ -286,6 +300,8 @@ The contents are pretty much the same; just choose one to watch.
 ## WEEK 12 ![progress-12](images/progress-overall-92.png)
 |![week-12](images/week-12.PNG)| Mar 31 (W): drill checkpoint (last one!!!)<br>Apr 01 (R): assignment 2 due<br>Apr 2 (F): Good Friday (NO LEC)|
 |---|:---|
+
+#### topics
 
 - [ ] almost there, folks...がんばれ!!!
 - [ ] sorting
@@ -295,6 +311,8 @@ The contents are pretty much the same; just choose one to watch.
 ## WEEK 13 ![progress-13](images/progress-overall-100.png)
 |![week-13](images/week-13.PNG)| Apr 5 (M): Easter Monday<br>Apr 8 (R): Our last tutorial. Sad now.<br>Apr 9 (F): assignment 3 due<br>Apr 9 (F): Our last lecture.  Weep not!|
 |---|:---|
+
+#### topics
 
 - [ ] dealer's choice
 - [ ] review

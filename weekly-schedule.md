@@ -264,9 +264,9 @@ The contents are pretty much the same; just choose one to watch.
 
 - [lec-15 (W)](lectures/15_2021-03-10(W)%20.md)
 
-#### lecture recordings []
+#### lecture recordings [1:21:54]
 
-- [lec-15 (W): Recursion](#) []
+- [lec-15 (W): Recursion](https://youtu.be/sA9xZZOIwso) [1:21:54]
 
 #### topics
 

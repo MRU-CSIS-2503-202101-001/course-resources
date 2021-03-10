@@ -134,6 +134,9 @@ Drills are **short - typically 15 minutes to 60 minutes - coding tasks** designe
 
 I expect folks to complete a number of drills - typically about 3 hours worth - each week. ~~The drills assigned will usually be due by the end of **your** tutorial section; on weeks where a coding topic test is due, this deadline will be moved to 23:59 on the Wednesday **immediately prior** the test.~~ UPDATED Feb 04: From this day onward, drills will be due at 23:59 for all checkpoints; as before, the standard due day will be your tutorial days (Thursday) except for the weeks of the Coding Topic Tests; those week's checkpoints will still be handed in on Wednesday. 
 
+**ADDED MARCH 10:**
+You can submit late drills up to 11:59 PM on April 13. Remember that you must spend 1 Perk for each late submission.
+
 Drills will be **submitted to GitHub**. You may resubmit solutions as many times as you wish, up to the checkpoint deadline. Details on the submission process will be provided - and practiced - in the early days of the course.
 
 You are encouraged to work on drills by yourelf, but you may work with your classmates if you wish.

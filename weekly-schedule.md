@@ -263,6 +263,7 @@ The contents are pretty much the same; just choose one to watch.
 #### instructor notes
 
 - [lec-15 (W)](lectures/15_2021-03-10(W)%20.md)
+- [tut-08 (R)](tuts/2021-03-11.md)
 
 #### lecture recordings [1:21:54]
 

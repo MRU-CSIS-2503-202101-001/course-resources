@@ -268,6 +268,10 @@ The contents are pretty much the same; just choose one to watch.
 
 - [lec-15 (W): Recursion](https://youtu.be/sA9xZZOIwso) [1:21:54]
 
+#### additional recordings [35:39]
+
+- [Implementing Iterable](https://youtu.be/M-seMTHqfbY) [35:39]
+
 #### topics
 
 - [ ] recursion
